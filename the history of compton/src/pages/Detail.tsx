@@ -33,6 +33,8 @@ export default function Detail({ random }: DetailProps) {
   }
 
   const title = 'title' in entry ? entry.title : entry.name
+  const backTo = entry.type === 'person' ? '/people' : '/timeline'
+  const backLabel = entry.type === 'person' ? 'Back to people' : 'Back to timeline'
   const label = entry.type === 'person' ? 'Person' : 'Event'
   const role = entry.type === 'person' ? entry.role : ''
   const photos = 'photos' in entry ? (entry.photos ?? []) : []
@@ -61,7 +63,7 @@ export default function Detail({ random }: DetailProps) {
       <Header />
       <Drawer />
       <div className="detail-page">
-        <Link to="/" className="back">&larr; Back to timeline</Link>
+        <Link to={backTo} className="back">&larr; {backLabel}</Link>
 
         <div className="label">{label}{year ? ` · ${year}` : role ? ` · ${role}` : ''}</div>
         <h1>{title}</h1>

@@ -4,6 +4,7 @@ import Detail from './pages/Detail'
 import Listing from './pages/Listing'
 import Era from './pages/Era'
 import Sources from './pages/Sources'
+import Categories from './pages/Categories'
 import NotFound from './pages/NotFound'
 
 export default function App() {
@@ -15,6 +16,7 @@ export default function App() {
       <Route path="/era/:key" element={<Era />} />
       <Route path="/category/:name" element={<Listing />} />
       <Route path="/sources" element={<Sources />} />
+      <Route path="/categories" element={<Categories />} />
       <Route path="/random" element={<Detail random />} />
       <Route path="/event/:slug" element={<Detail />} />
       <Route path="/person/:slug" element={<Detail />} />
