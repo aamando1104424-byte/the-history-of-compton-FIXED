@@ -179,7 +179,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg/960px-Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg',
         caption: 'The aftermath of the 1871 massacre: Los Angeles residents view the bodies of Chinese victims, October 1871',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Los_Angeles,_corpses_of_Chinese_victims,_Oct_1871.jpg',
@@ -236,7 +236,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/0/0c/Compton-Flood-1903.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Compton-Flood-1903.jpg/960px-Compton-Flood-1903.jpg',
         caption: 'The Los Angeles River floods Compton, 1903 — flooded street looking west on Compton Boulevard',
         credit: 'Los Angeles Public Library, public domain, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Compton-Flood-1903.jpg',
@@ -268,13 +268,13 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/d/d3/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg/960px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg',
         caption: 'W.E.B. Du Bois, photographed by James E. Purdy in 1907',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907.jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg/960px-Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg',
         caption: 'Booker T. Washington, photographed by Frances Benjamin Johnston, c. 1895',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Booker_T._Washington_by_Francis_Benjamin_Johnston,_c._1895.jpg',
@@ -335,19 +335,19 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Louis_Paulhan_flying_with_a_passenger_%28Mrs._Dick_Ferris%3F%29_in_his_Henry_Farman_biplane%2C_at_the_Dominguez_Field_Air_Meet%2C_Los_Angeles%2C_January_1910_%28CHS-5602%29.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Louis_Paulhan_flying_with_a_passenger_%28Mrs._Dick_Ferris%3F%29_in_his_Henry_Farman_biplane%2C_at_the_Dominguez_Field_Air_Meet%2C_Los_Angeles%2C_January_1910_%28CHS-5602%29.jpg/960px-Louis_Paulhan_flying_with_a_passenger_%28Mrs._Dick_Ferris%3F%29_in_his_Henry_Farman_biplane%2C_at_the_Dominguez_Field_Air_Meet%2C_Los_Angeles%2C_January_1910_%28CHS-5602%29.jpg',
         caption: 'Louis Paulhan flying with a passenger over Dominguez Field, January 1910',
         credit: 'California Historical Society via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Louis_Paulhan_flying_with_a_passenger_(Mrs._Dick_Ferris%3F)_in_his_Henry_Farman_biplane,_at_the_Dominguez_Field_Air_Meet,_Los_Angeles,_January_1910_(CHS-5602).jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/b/b3/French_aviator_Louis_Paulhan_and_the_first_American_woman_to_fly_in_an_airplane_%28as_a_passenger%29_Mrs._Dick_Ferris_at_the_Dominguez_Air_Meet%2C_Los_Angeles%2C_1910_%28CHS-5592%29.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/French_aviator_Louis_Paulhan_and_the_first_American_woman_to_fly_in_an_airplane_%28as_a_passenger%29_Mrs._Dick_Ferris_at_the_Dominguez_Air_Meet%2C_Los_Angeles%2C_1910_%28CHS-5592%29.jpg/960px-French_aviator_Louis_Paulhan_and_the_first_American_woman_to_fly_in_an_airplane_%28as_a_passenger%29_Mrs._Dick_Ferris_at_the_Dominguez_Air_Meet%2C_Los_Angeles%2C_1910_%28CHS-5592%29.jpg',
         caption: 'Louis Paulhan and Mrs. Dick Ferris — the first American woman to fly as a passenger — at the Dominguez Air Meet, 1910',
         credit: 'California Historical Society via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:French_aviator_Louis_Paulhan_and_the_first_American_woman_to_fly_in_an_airplane_(as_a_passenger)_Mrs._Dick_Ferris_at_the_Dominguez_Air_Meet,_Los_Angeles,_1910_(CHS-5592).jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/5/51/Hoxseys_smash-up%2C_Dominguez_Field%2C_1910_%2835733%29.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hoxseys_smash-up%2C_Dominguez_Field%2C_1910_%2835733%29.jpg/960px-Hoxseys_smash-up%2C_Dominguez_Field%2C_1910_%2835733%29.jpg',
         caption: 'A crash ("smash-up") during the meet at Dominguez Field, 1910',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Hoxseys_smash-up,_Dominguez_Field,_1910_(35733).jpg',
@@ -380,7 +380,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/7/78/African-American-family-South-Chicago-1922.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/African-American-family-South-Chicago-1922.jpg/960px-African-American-family-South-Chicago-1922.jpg',
         caption: 'An African American family in South Chicago, 1922 — a scene from the same Great Migration that reshaped Los Angeles',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:African-American-family-South-Chicago-1922.jpg',
@@ -414,7 +414,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Signal_Hill%2C_1926.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Signal_Hill%2C_1926.jpg/960px-Signal_Hill%2C_1926.jpg',
         caption: 'Signal Hill, 1926 — the LA Basin oil boom that transformed the region around Compton in the same years',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Signal_Hill,_1926.jpg',
@@ -479,7 +479,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Signal_Hill%2C_1926.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Signal_Hill%2C_1926.jpg/960px-Signal_Hill%2C_1926.jpg',
         caption: 'Signal Hill, 1926 — one of the other great LA Basin fields discovered in the same boom as Dominguez',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Signal_Hill,_1926.jpg',
@@ -512,7 +512,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Mexican_Repatriation%2C_1931.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mexican_Repatriation%2C_1931.jpg/960px-Mexican_Repatriation%2C_1931.jpg',
         caption: 'Relatives and friends wave goodbye to a train carrying 1,500 people expelled from Los Angeles to Mexico, August 20, 1931',
         credit: 'NY Daily News Archive, public domain, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Mexican_Repatriation,_1931.jpg',
@@ -550,13 +550,13 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/9/93/Union_High_School_in_Compton_after_an_earthquake%2C_March_10%2C_1933.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Union_High_School_in_Compton_after_an_earthquake%2C_March_10%2C_1933.jpg/960px-Union_High_School_in_Compton_after_an_earthquake%2C_March_10%2C_1933.jpg',
         caption: 'Union High School in Compton after the earthquake, March 10, 1933',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Union_High_School_in_Compton_after_an_earthquake,_March_10,_1933.jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/a/a0/1933_Long_Beach_earthquake_damage_1.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/1933_Long_Beach_earthquake_damage_1.jpg/960px-1933_Long_Beach_earthquake_damage_1.jpg',
         caption: 'Damage from the 1933 Long Beach earthquake',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:1933_Long_Beach_earthquake_damage_1.jpg',
@@ -815,13 +815,13 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg/960px-Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg',
         caption: 'Buildings on fire on Avalon Boulevard during the Watts Rebellion, 1965',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Watts_Riots_-_buildings_on_fire_on_Avalon_Blvd.jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/d/d2/Wattsriots-burningbuildings-loc.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wattsriots-burningbuildings-loc.jpg/960px-Wattsriots-burningbuildings-loc.jpg',
         caption: 'Burning buildings during the Watts Rebellion, 1965',
         credit: 'Library of Congress via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Wattsriots-burningbuildings-loc.jpg',
@@ -854,7 +854,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Carson_city_hall.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carson_city_hall.jpg/960px-Carson_city_hall.jpg',
         caption: 'Carson City Hall — Carson incorporated in 1968 partly to avoid building low-income housing',
         credit: 'The Front Page Online, CC BY-SA 4.0, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Carson_city_hall.jpg',
@@ -973,7 +973,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/3/36/Compton_Car_Wash%2C_Rosecrans_Avenue%2C_Compton%2C_California_LOC_37579385954.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Compton_Car_Wash%2C_Rosecrans_Avenue%2C_Compton%2C_California_LOC_37579385954.jpg/960px-Compton_Car_Wash%2C_Rosecrans_Avenue%2C_Compton%2C_California_LOC_37579385954.jpg',
         caption: 'Compton Car Wash on Rosecrans Avenue, 1981 — John Margolies\' roadside America photograph',
         credit: 'John Margolies / Library of Congress, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Compton_Car_Wash,_Rosecrans_Avenue,_Compton,_California_LOC_37579385954.jpg',
@@ -1006,13 +1006,13 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg/960px-MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
         caption: 'MC Ren of NWA in Los Angeles, 1990',
         credit: 'Ithaka Darin Pappas via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
       },
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/NWA-Logo.png',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NWA-Logo.png/960px-NWA-Logo.png',
         caption: 'NWA logo',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:NWA-Logo.png',
@@ -1070,7 +1070,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/1/16/John_Singleton_2013.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_Singleton_2013.jpg/960px-John_Singleton_2013.jpg',
         caption: 'John Singleton at a 2013 event celebrating his body of work, including "Boyz n the Hood" (1991)',
         credit: 'George Pimentel / Canadian Film Centre, CC BY 2.0, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:John_Singleton_2013.jpg',
@@ -1102,7 +1102,7 @@ export const events: Event[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/e/e1/ComptonHS-1912.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ComptonHS-1912.jpg/960px-ComptonHS-1912.jpg',
         caption: 'Compton High School\'s original building, 1912',
         credit: 'Los Angeles Public Library, public domain, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:ComptonHS-1912.jpg',
@@ -1319,6 +1319,18 @@ export const events: Event[] = [
 ]
 
 export { people } from './people'
+
+export const allTags: string[] = (() => {
+  const counts = new Map<string, number>()
+  for (const e of events) {
+    for (const t of e.tags) counts.set(t, (counts.get(t) ?? 0) + 1)
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1]).map(([t]) => t)
+})()
+
+export function countTagged(tag: string): number {
+  return events.filter(e => e.tags.some(t => t.toLowerCase() === tag.toLowerCase())).length
+}
 
 const personEventLinks: Record<string, string[]> = {
   'person-1': ['evt-1', 'evt-2'],

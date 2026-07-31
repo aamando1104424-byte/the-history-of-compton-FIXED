@@ -1,6 +1,7 @@
 import type { CSSProperties } from 'react'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import Drawer from '../components/Drawer'
 
 const bibliography = [
   { author: 'Austin Janisch', title: 'Soaring into Los Angeles: The 1910 Los Angeles International Aviation Meet', year: '2020', type: 'Senior Honors Thesis, UC Santa Barbara' },
@@ -42,6 +43,7 @@ export default function Sources() {
   return (
     <>
       <Header />
+      <Drawer />
       <div className="container" style={{ padding: '48px 20px' }}>
         <h1 style={{ fontSize: '1.5rem', fontWeight: 800, marginBottom: 12 }}>Sources &amp; Further Reading</h1>
         <p style={{ color: '#6b5d4b', marginBottom: 24 }}>

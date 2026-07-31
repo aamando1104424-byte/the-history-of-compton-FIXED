@@ -28,7 +28,7 @@ export default function Listing() {
         <Header />
         <Drawer />
         <div className="container" style={{ padding: '48px 20px' }}>
-          <h1 style={{ fontSize: '1.5rem', fontWeight: 800, marginBottom: 12 }}>{knownPages.timeline}</h1>
+          <h1 style={{ fontSize: '1.5rem', fontWeight: 800, marginBottom: 12 }}>{knownPages[effectiveName] ?? 'Timeline'}</h1>
           <p style={{ color: '#6b5d4b', marginBottom: 24 }}>A chronological history of Compton from its founding to the present.</p>
           {events.map(e => (
             <Link className="event-card" to={`/event/${e.slug}`} key={e.id}>

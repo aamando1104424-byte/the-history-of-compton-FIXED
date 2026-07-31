@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { allEntries, Entry } from '../data'
+import { allEntries, Entry, getEraLabel } from '../data'
 
 export default function RandomCard() {
   const [entry, setEntry] = useState<Entry>(() => allEntries[Math.floor(Math.random() * allEntries.length)])
@@ -30,7 +30,7 @@ export default function RandomCard() {
       <div className="random-card-body">
         <div className="random-card-label">{label}</div>
         <h3>{title}</h3>
-        <div className="random-card-era">{entry.era}</div>
+        <div className="random-card-era">{getEraLabel(entry.era)}</div>
         <p>{entry.desc}</p>
         <div className="random-card-actions">
           <button className="rc-btn rc-btn-primary" onClick={() => navigate(`/${entry.type}/${entry.slug}`)}>

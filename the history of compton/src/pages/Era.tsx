@@ -109,9 +109,9 @@ export default function Era() {
             <div className="gallery-grid">
               {uniquePhotos.map((p, i) => (
                 <figure key={`${p.src}-${i}`}>
-                  <a href={p.href} style={{ display: 'block' }}>
+                  <Link to={p.href} style={{ display: 'block' }}>
                     <img src={p.src} alt={p.caption} loading="lazy" />
-                  </a>
+                  </Link>
                   <figcaption>
                     {p.caption}
                     <span className="photo-credit">{p.credit}</span>

@@ -97,7 +97,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/2/27/Ludwig_Salvator_von_%C3%96sterreich-Toskana.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ludwig_Salvator_von_%C3%96sterreich-Toskana.jpg/960px-Ludwig_Salvator_von_%C3%96sterreich-Toskana.jpg',
         caption: 'Portrait of Archduke Ludwig Louis Salvator of Austria',
         credit: 'Public domain, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ludwig_Salvator_von_%C3%96sterreich-Toskana.jpg',
@@ -361,7 +361,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/0/0b/Charlotta_Bass-52.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Charlotta_Bass-52.jpg/960px-Charlotta_Bass-52.jpg',
         caption: 'Charlotta Bass, from the 1952 Marion County Voters\' Pamphlet',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Charlotta_Bass-52.jpg',
@@ -423,7 +423,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/2/2a/William_J._Seymour_%28cropped%29.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/William_J._Seymour_%28cropped%29.jpg/960px-William_J._Seymour_%28cropped%29.jpg',
         caption: 'William J. Seymour, from a picture of the early 1910s',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:William_J._Seymour_(cropped).jpg',
@@ -531,7 +531,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/2/26/Paul_R_Williams.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Paul_R_Williams.jpg/960px-Paul_R_Williams.jpg',
         caption: 'Paul Revere Williams, architect',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Paul_R_Williams.jpg',
@@ -840,7 +840,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/b/b1/Eazy_E_headshot.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Eazy_E_headshot.jpg/960px-Eazy_E_headshot.jpg',
         caption: 'Eazy-E as an LAPD Explorer',
         credit: 'Wikimedia Commons (CC BY 2.0)',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Eazy_E_headshot.jpg',
@@ -871,7 +871,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/d/de/Dr._Dre_in_2011.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dr._Dre_in_2011.jpg/960px-Dr._Dre_in_2011.jpg',
         caption: 'Dr. Dre at the Beats Store grand opening, November 2011',
         credit: 'Wikimedia Commons (CC BY-SA 3.0)',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Dr._Dre_in_2011.jpg',
@@ -902,7 +902,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg/960px-Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg',
         caption: 'Ice Cube at a Chicago screening for "Ride Along," January 2014',
         credit: 'Wikimedia Commons (CC BY-SA 3.0)',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Ice-Cube_2014-01-09-Chicago-photoby-Adam-Bielawski.jpg',
@@ -933,7 +933,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg/960px-MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
         caption: 'MC Ren of NWA in Los Angeles, 1990, photographed by Ithaka Darin Pappas',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:MC_Ren_of_NWA_Los_Angeles_1990_photographed_by_Ithaka_Darin_Pappas.jpg',
@@ -964,7 +964,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/1/12/DJ_Yella.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DJ_Yella.jpg/960px-DJ_Yella.jpg',
         caption: 'DJ Yella',
         credit: 'O\u00edsin O\'Connell, CC BY 3.0, via Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:DJ_Yella.jpg',
@@ -995,7 +995,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/John_Singleton_2000.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/John_Singleton_2000.jpg/960px-John_Singleton_2000.jpg',
         caption: 'John Singleton, Washington D.C., 2000',
         credit: 'Wikimedia Commons (CC BY-SA 2.0)',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:John_Singleton_2000.jpg',
@@ -1303,7 +1303,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/d/d3/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg/960px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg',
         caption: 'W.E.B. Du Bois, photographed by James E. Purdy in 1907',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907.jpg',
@@ -1335,7 +1335,7 @@ export const people: Person[] = [
     ],
     photos: [
       {
-        src: 'https://upload.wikimedia.org/wikipedia/commons/4/45/Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg',
+        src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg/960px-Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg',
         caption: 'Booker T. Washington, photographed by Francis Benjamin Johnston, c. 1895',
         credit: 'Wikimedia Commons',
         sourceUrl: 'https://commons.wikimedia.org/wiki/File:Booker_T._Washington_by_Francis_Benjamin_Johnston,_c._1895.jpg',
